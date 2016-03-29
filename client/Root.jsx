@@ -1,7 +1,7 @@
 import React from 'react';
 import PouchDB from 'pouchdb';
 
-const millis = () => new Date().getUTCMilliseconds();
+const millis = () => new Date().getTime();
 
 class Root extends React.Component {
   constructor(props) {
