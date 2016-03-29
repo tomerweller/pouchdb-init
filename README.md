@@ -1,4 +1,4 @@
-# express + webpack + react + babel + pouchdb
+# PouchDB init = express + webpack + react + babel + pouchdb
 
 A simple boiler plate for a messaging app backed by a data store. It uses:
 
